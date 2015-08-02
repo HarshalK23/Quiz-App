@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.trivia.quizapp.LevelOne" >
+
+     <item android:id="@+id/r"
+         android:title="Choose Level" />
+    <item android:id="@+id/s"
+         android:title="Settings" />
+       <item android:id="@+id/h"
+         android:title="Privacy Policy" />
+       <item android:id="@+id/rt"
+         android:title="Rate the App" />
+
+</menu>

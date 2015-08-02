@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <string name="title_activity_quiz_app">QuizApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_questions">Questions</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_score">Score</string>
+    <string name="title_activity_calculating_score">CalculatingScore</string>
+    <string name="title_activity_color_wheel">ColorWheel</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_level">Level</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_rate_app">RateApp</string>
+    <string name="title_activity_music_service">MusicService</string>
+    <string name="title_activity_level_one">LevelOne</string>
+    <string name="title_activity_level_two">LevelTwo</string>
+    <string name="title_activity_level_three">LevelThree</string>
+    <string name="title_activity_level_four">LevelFour</string>
+    <string name="title_activity_level_five">LevelFive</string>
+    <string name="title_activity_final_result_two">FinalResultTwo</string>
+    <string name="title_activity_final_result_three">FinalResultThree</string>
+    <string name="title_activity_final_result_four">FinalResultFour</string>
+    <string name="title_activity_final_result_five">FinalResultFive</string>
+    <string name="title_activity_calculating_score_two">CalculatingScoreTwo</string>
+    <string name="title_activity_calculating_score_three">CalculatingScoreThree</string>
+    <string name="title_activity_calculating_scorefour">CalculatingScorefour</string>
+    <string name="title_activity_calculating_score_five">CalculatingScoreFive</string>
+    <string name="title_activity_score_two">ScoreTwo</string>
+    <string name="title_activity_score_three">ScoreThree</string>
+    <string name="title_activity_score_four">ScoreFour</string>
+    <string name="title_activity_score_five">ScoreFive</string>
+    <string name="title_activity_description">Description</string>
+
+</resources>

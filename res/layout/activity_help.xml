@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/we"
+    tools:context="com.trivia.quizapp.Help" >
+
+    <ScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="fill_parent"
+        android:layout_height="150px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true" >
+        
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="1497dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="91dp"
+            android:scrollbars="vertical"
+            android:text="Welcome to our App. If you continue to use this App, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern GrowLite&apos;s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
+
+The use of this App is subject to the following terms of use:
+
+The content of the pages of this App is for your general information and use only. It is subject to change without notice.. If you do allow cookies to be used, the following personal information may be stored by us for use by third parties.
+Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+Your use of any information or materials on this App is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this App meet your specific requirements."
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff" />
+        
+    </ScrollView>
+    
+</RelativeLayout>
